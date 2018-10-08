@@ -17,10 +17,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import javax.xml.bind.DatatypeConverter;
 
-/**
- *
- * @author KALINDU
- */
+
 @WebServlet(name = "SessionDemo", urlPatterns = {"/SessionDemo"})
 public class SessionDemo extends HttpServlet {
     
