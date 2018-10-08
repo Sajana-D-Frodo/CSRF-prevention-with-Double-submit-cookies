@@ -1,8 +1,4 @@
-<%-- 
-    Document   : welcome
-    Created on : Sep 27, 2018, 9:39:43 PM
-    Author     : KALINDU
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
