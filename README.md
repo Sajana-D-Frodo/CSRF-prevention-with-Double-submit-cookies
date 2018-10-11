@@ -6,4 +6,4 @@ Once you have got the CSRFDoubleS.war file in the target directory, deploy it in
 
 You can access the application with the URL http://localhost:(port)/CSRFDoubleS
 
-Visit my blog to get a better understanding : 
+Visit my blog to get a better understanding : https://sajanadfrodo.blogspot.com/2018/10/cross-site-request-forgery-csrf-its.html
